@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on JogLogger (Used to keep track of the jogging session records like when, how much time, distance covered).
+- 🔭 I’m currently working on JogLogger (Used to keep track of the jogging session like when, how much time, distance covered).
 - 🌱 I’m currently learning PHP.
 - 😄 Pronouns: he/him 🙋‍♂️
 - ⚡ Fun fact: I enjoy coding and I like to learn new concepts in programming.
