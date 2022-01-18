@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on JogLogger (Used to keep track of the Jog records like when, how much time, distance covered).
+- 🌱 I’m currently learning PHP.
+- 😄 Pronouns: he/him 🙋‍♂️
+- ⚡ Fun fact: I enjoy coding and like to learn new concepts in programming.
+
+
+
 <!--
 **TheHood02/thehood02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
