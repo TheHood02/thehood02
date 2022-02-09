@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on JogLogger (Used to keep track of the jogging session like when, how much time, distance covered).
-- 🌱 I’m currently learning PHP.
+- 🔭 I’m currently working on Xpenditure (Used to keep track of the daily life expenses and setting budget/goal for the month).
+- 🌱 I’m currently learning React Native & Cloud FireStore, also making my projects more awesome.
 - 😄 Pronouns: he/him 🙋‍♂️
 - ⚡ Fun fact: I enjoy coding and learning new concepts in programming.
 
