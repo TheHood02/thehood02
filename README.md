@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning css concepts in more depth.
 - 😄 Pronouns: he/him 🙋‍♂️
 - ⚡ Fun fact: I enjoy coding and learning new concepts in programming.
+- Visit my CodePen --> [thehood02](https://codepen.io/thehood02)
 
 
 
