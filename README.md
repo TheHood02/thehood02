@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on learning random things related to web design.
-- 🌱 I’m currently learning css concepts in more depth.
+- 🔭 I’m currently working on learning concepts related to web design and development.
+- 🌱 I’m currently learning css and javascript concepts in more depth.
 - 😄 Pronouns: he/him 🙋‍♂️
 - ⚡ Fun fact: I enjoy coding and learning new concepts in programming.
 - Visit my CodePen --> [thehood02](https://codepen.io/thehood02)
