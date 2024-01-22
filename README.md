@@ -1,11 +1,7 @@
 
 ### Hi there 👋
-<!--
-- 🔭 I’m currently working as a React Native Developer (Intern).
-- 🌱 I’m currently learning express and REST API on the side.
-- ⚡ Fun fact: I enjoy coding and learning new concepts in programming.
+
 - Visit my CodePen --> [thehood02](https://codepen.io/thehood02)
--->
 
 
 <!--
